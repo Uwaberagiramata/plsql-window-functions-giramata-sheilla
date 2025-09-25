@@ -57,4 +57,69 @@ To measure success we will use 5 sql window functions to make 5 clear goals:
    
    .Purpose : it will help to calculate aggregate of a specified row
 
+STEP3: Database Schema
+
+ I created  relational schema that linked three  tables which are  customers , products 
+ 
+ transactions they are connected  through foreign keys.
+
+  TABLES:
+
+1.CUSTOMERS
+
+purpose: customer information
+
+key columns:
+
+.customer_id (pk)
+
+.name
+
+.region
+
+Example row: (1001, 'John Doe', 'Kigali')
+
+
+2.PRODUCTS
+
+PURPOSE: product catalog 
+
+key columns: 
+
+product_id (PK)
+
+name 
+
+category
+
+example row : (2001, 'Coffee Beans', 'Beverages')
+
+3.TRANSACTIONS
+
+Purpose: Sales records
+
+Key columns: 
+transaction_id (PK)
+
+customer_id (FK)  references customers(customer_id)
+
+product_id(FK) references products(product_id)
+
+sale_date
+
+amount
+
+example row: (3001, 1001, 2001, '2024-01-15', 25000)
+
+
+
+
+
+
+
+
+
+
+
+
 
