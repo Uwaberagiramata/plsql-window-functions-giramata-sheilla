@@ -9,3 +9,11 @@ INSERT INTO customers (customer_id, name, region) VALUES
 (1005, 'Mugabo Allan', 'Nyamagabe');
 
 3.PRODUCTS
+
+-- Insert Products
+INSERT INTO products (product_id, name, category) VALUES 
+ (2001, 'Coffee Beans', 'Beverages'),
+ (2002, 'Black tea', 'Beverages'),
+ (2003, 'Biscuits', 'Food'),
+ (2004, 'cornflour', 'food'),
+ (2005, 'Green Tea', 'Beverages');
