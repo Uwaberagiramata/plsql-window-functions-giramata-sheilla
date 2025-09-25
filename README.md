@@ -1,14 +1,13 @@
 # plsql-window-functions-giramata-sheilla
-Step1: problem  defintion
-
+Step1: problem  definition
 
   Business context
-A retail company in Rwanda that sells  coffee Beans and bevarages product  through physical stores  and an online channel. the work is for the sales and marketing department to improve product range,regional promotions,customer loyalty.
+A retail company in Rwanda that sells  coffee Beans and beverages product  through physical stores  and an online channel. the work is for the sales and marketing department to improve product range,regional promotions,customer loyalty.
 
 
   Data challenge
 
-The company has transactional sales data accross the stores and online but it is not  summarized for decision making.there's not summarized report about product  perfomance and  month-to-month sales is messy  so  we are going  to calculate rise of increase,calculate customer aggregates so that  we can rank the products and audience segmentation to targeted marketing.
+ when working with team  we  found out that The company has transactional sales data accross the stores and online but it is not  summarized for decision making.there's not summarized report about product  perfomance and  month-to-month sales is messy  so  we are going  to calculate rise of increase,calculate customer aggregates so that  we can rank the products and audience segmentation to targeted marketing.
 
 
 
