@@ -7,7 +7,7 @@ A retail company in Rwanda that sells  coffee Beans and beverages product  throu
 
   Data challenge
 
- when working with team  we  found out that The company has transactional sales data accross the stores and online but it is not  summarized for decision making.there's not summarized report about product  perfomance and  month-to-month sales is messy  so  we are going  to calculate rise of increase,calculate customer aggregates so that  we can rank the products and audience segmentation to targeted marketing.
+ when working with team  we  found out that The company has transactional sales data accross the stores and online but it is not  summarized for decision making.there's not summarized report about product  performance and  month-to-month sales is messy  so  we are going  to calculate rise of increase,calculate customer aggregates so that  we can rank the products and audience segmentation to targeted marketing.
 
 
 
@@ -15,7 +15,7 @@ A retail company in Rwanda that sells  coffee Beans and beverages product  throu
 
   
 the goal is to turn  raw sales data into clear ,practical insights that the business can act on ,  tracking monthly sales totals, growth from one month to the next,  and calculating three months averages to give a management team a clear picture,
-And this will make decision-making  alot easier , and help in improving promotions .
+And this will make decision-making  a lot easier , and help in improving promotions .
 
 step2:Success Criteria
 
