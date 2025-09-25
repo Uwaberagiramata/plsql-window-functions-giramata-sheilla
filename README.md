@@ -112,7 +112,8 @@ amount
 example row: (3001, 1001, 2001, '2024-01-15', 25000)
 
 
-![ERD](screenshots/erd.png)
+![ERD](screenshots/ERD1.PNG.PDF)
+
 
 
 
