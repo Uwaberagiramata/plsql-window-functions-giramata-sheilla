@@ -1,5 +1,5 @@
 # plsql-window-functions-giramata-sheilla
-Step1: problem identification
+Step1: problem  defintion
 
 
   Business context
