@@ -2,7 +2,7 @@
 Step1: problem  definition
 
   Business context
-A retail company in Rwanda that sells  coffee Beans and beverages product  through physical stores  and an online channel. the work is for the sales and marketing department to improve product range,regional promotions,customer loyalty.
+A retail company in Rwanda that sells  food and beverages product  through physical stores  and an online channel. the work is for the sales and marketing department to improve product range,regional promotions,customer loyalty.
 
 
   Data challenge
