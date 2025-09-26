@@ -27,27 +27,27 @@ To measure success we will use 5 sql window functions to make 5 clear goals:
 
   .Function: RANK()
   
-   .Purpose: identify regional best-sellers  for promotions
+   .Purpose:  Ranking functions to find top N customers by revenue
 
   
 2.Running monthly sales totals
 
    .Function: SUM() OVER()
    
-   .Purpose: log sales to monitor performance
+   .Purpose: Aggregate functions for running totals and trends
 
 3. Month-over-month growth
 
    .Function:LAG()/LEAD()
    
-   .Purpose:calculate sales growth or decline compared to the previous month
+   .Purpose: Navigation functions for growth calculations
 
    
 4.Customer quartiles
 
   .Function:NTILE(4)
    
-   .Purpose: divide customers into groups (25%,50% etc) for targeted campaigns
+   .Purpose: Distribution functions for customer segmentation
 
    
 5.3-month moving average of sales
