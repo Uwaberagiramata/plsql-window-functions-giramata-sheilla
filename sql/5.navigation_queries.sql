@@ -22,4 +22,8 @@ FROM (
     GROUP BY DATE_TRUNC('month', sale_date)
 ) AS monthly
 ORDER BY month;
+--LAG: gives the previous month’s value(past)
+--LEAD: gives the next month’s value(future)
+
+
 
