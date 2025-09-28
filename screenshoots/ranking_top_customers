@@ -1,8 +1,4 @@
- Ranking: ROW_NUMBER(), RANK(), DENSE_RANK(), PERCENT_RANK() Use case: Top N customers by
-revenue.
 
-
-1.ROW_NUMBER():
 
 
 
