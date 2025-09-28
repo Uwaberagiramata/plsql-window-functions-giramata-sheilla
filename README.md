@@ -127,6 +127,9 @@ Continuining to monitor trends, and take action when you're seeing negative grow
 ##FOR REFERENCES SEE :
 https://github.com/Uwaberagiramata/plsql-window-functions-giramata-sheilla/blob/main/References.md
 
+“All sources were properly cited. Implementations and analysis represent original work. No AIgenerated content was copied without attribution or adaptation.”
+
+
 
 
 
