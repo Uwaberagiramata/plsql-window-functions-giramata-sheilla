@@ -110,6 +110,24 @@ amount
 
 example row: (3001, 1001, 2001, '2024-01-15', 25000)
 
+ Insights:
+ 
+ Sales are generally trending upward, though there are a few months that drop.
+
+Running maximum indicates  months with great performance; running minimum indicates months with poor performance.
+
+Month-over-month growth indicates periods of strong growth as well as declines.
+
+Recommandations
+
+Capitalize on months with strong performance, and see if you can replicate it.
+
+Investigation and improvement during months of poor performance.
+
+Continuining to monitor trends, and take action when you're seeing negative growth.
+
+Consider the running max/min as a planning metric.
+
 
 
 
