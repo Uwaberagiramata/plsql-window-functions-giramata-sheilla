@@ -110,6 +110,8 @@ amount
 
 example row: (3001, 1001, 2001, '2024-01-15', 25000)
 
+ENTITY RELATIONSHIP DIAGRAM
+
  Insights:
 
 Running maximum indicates  months with great performance; running minimum indicates months with poor performance.
@@ -123,6 +125,8 @@ Capitalize on months with strong performance, and see if you can replicate it.
 Investigation and improvement during months of poor performance.
 
 Continuining to monitor trends, and take action when you're seeing negative growth.
+
+##FOR REFERENCES SEE :
 https://github.com/Uwaberagiramata/plsql-window-functions-giramata-sheilla/blob/main/References.md
 
 
