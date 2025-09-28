@@ -110,6 +110,10 @@ amount
 
 example row: (3001, 1001, 2001, '2024-01-15', 25000)
 
+ENTITY RELATIONSHIP DIAGRAM
+
+[ERD1.PNG.pdf](https://github.com/user-attachments/files/22583866/ERD1.PNG.pdf)
+
 
 
 
